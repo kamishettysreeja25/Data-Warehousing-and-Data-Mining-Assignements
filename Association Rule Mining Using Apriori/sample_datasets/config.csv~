@@ -1,0 +1,5 @@
+input,input.csv
+output,/home/prakhar/Desktop/sample/src/output.csv
+support,0.2
+confidence,0.8
+flag,0
